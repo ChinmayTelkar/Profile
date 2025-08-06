@@ -1,2 +1,3 @@
-This is my new repo.
-THis is feature branch(main).
+Myself Chinmay T G
+<br>
+3rd Year B.tech JNNCE College,Shivamogga.
