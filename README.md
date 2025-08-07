@@ -1,4 +1,4 @@
-# Hi👋, It's Chinmay T G Here.
+# Hi👋, It's Chinmay Here.
 <br>
 3rd Year B.tech JNNCE College,Shivamogga.
-<br>
+
